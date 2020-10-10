@@ -1,5 +1,5 @@
 # Learning-Analytics-Program-Project
-This is a compiled repository that include all the major works from my master program
+This is a compiled repository that includes all the major works from my master program
 
 
 <img src="http://www.e-learn.nl/media/blogs/e-learn/banners/wordle-learninganalytics.png?mtime=1514126619" width="600"><br>
