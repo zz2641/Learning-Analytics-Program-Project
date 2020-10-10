@@ -11,4 +11,9 @@ This is a compiled repository that include all the major works from my master pr
 # Aloha, folks!
 #### Welcome to my main page for my learning analytics projects.
 
-My name is Zhongyuan(Noah) Zhang, an M.S. candidate for Learning Analytics at Columbia University.
+My name is **Zhongyuan(Noah) Zhang**, an M.S. candidate for Learning Analytics at **Columbia University**.
+
+
+# Works in quick view
+
+[**Interactive-Visualization**](https://github.com/zz2641/Mid-term-test-result-shiny-dashboard)
