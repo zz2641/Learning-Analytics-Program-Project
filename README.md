@@ -5,13 +5,11 @@ This is a compiled repository that includes all the major works from my master p
 <img src="http://www.e-learn.nl/media/blogs/e-learn/banners/wordle-learninganalytics.png?mtime=1514126619" width="600"><br>
 
 
-**LEARNING ANALYTICS** is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimising learning and the environments in which it occurs
-
 
 # Aloha, folks!
 #### Welcome to my main page for my learning analytics projects.
 
-My name is **Zhongyuan(Noah) Zhang**, an M.S. candidate for Learning Analytics at **Columbia University**.
+My name is **Zhongyuan(Noah) Zhang**, an M.S. candidate for Learning Analytics at **Columbia University**. **LEARNING ANALYTICS** is the measurement, collection, analysis and reporting of data about learners and their contexts, for purposes of understanding and optimising learning and the environments in which it occurs. The program prepares me with experience and practise of data science methods to cater education releated exploration. The insights extracted from series of analysis could either directly or indirectly merit design, implementation, curriculum design and impletation, education product efficacy evaluation as well as learning interace/ learning experience assessment and optimization. 
 
 
 # Works in quick view
