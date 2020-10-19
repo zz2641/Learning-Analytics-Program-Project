@@ -13,5 +13,5 @@ My name is **Zhongyuan(Noah) Zhang**, an M.S. candidate for Learning Analytics a
 
 # Works in quick view
 
-[**Tree method prediction**](https://github.com/zz2641/Prediction-Learning-Analytics)
+[**Tree method prediction**](https://github.com/zz2641/Prediction-Learning-Analytics)<br>
 [**Interactive-Visualization**](https://github.com/zz2641/Mid-term-test-result-shiny-dashboard)
