@@ -13,9 +13,12 @@ My name is **Zhongyuan(Noah) Zhang**, an M.S. candidate for Learning Analytics a
 
 # Works in quick view
 
-[**Tree method prediction**](https://github.com/zz2641/Prediction-Learning-Analytics)<br>
-[**Interactive-Visualization**](https://github.com/zz2641/Mid-term-test-result-shiny-dashboard)<br>
-[**Recommender Systems**](https://github.com/zz2641/recommender-systems)<br>
-[**Natural Language Processing**]()<br>
-[**Neurol Network**]()<br>
-[**Latent Class Analysis: Different Typologis of Student Readers**](https://github.com/zz2641/A-Latent-Class-Analysis-Student-Typology)
+- [**Tree method prediction**](https://github.com/zz2641/Prediction-Learning-Analytics)<br>
+- [**Interactive-Visualization**](https://github.com/zz2641/Mid-term-test-result-shiny-dashboard)<br>
+- [**Recommender Systems**](https://github.com/zz2641/recommender-systems)<br>
+- [**Natural Language Processing**]()<br>
+- [**Neurol Network**]()<br>
+- [**Latent Class Analysis: Different Typologis of Student Readers**](https://github.com/zz2641/A-Latent-Class-Analysis-Student-Typology)
+
+# Author
+[**Noah(Zhongyuan) Zhang**](), M.S candidate in Learning Analytics (STEM program) at Teachers College, Columbia University
