@@ -23,4 +23,4 @@ My name is **Noah(Zhongyuan) Zhang**, an M.S. candidate for Learning Analytics a
 - [**Latent Class Analysis: Different Typologis of Student Readers**](https://github.com/zz2641/A-Latent-Class-Analysis-Student-Typology)
 
 # Author
-[**Noah(Zhongyuan) Zhang**](), M.S candidate in Learning Analytics (STEM program) at Teachers College, Columbia University
+[**Noah(Zhongyuan) Zhang**](https://github.com/zz2641), M.S candidate in Learning Analytics (STEM program) at Teachers College, Columbia University
