@@ -17,7 +17,7 @@ My name is **Noah(Zhongyuan) Zhang**, an M.S. candidate for Learning Analytics a
 - [**Interactive-Visualization**](https://github.com/zz2641/Mid-term-test-result-shiny-dashboard)<br>
 - [**Recommender Systems**](https://github.com/zz2641/recommender-systems)<br>
 - [**Natural Language Processing**](https://github.com/zz2641/Natural-Language-Processing)<br>
-- [**Social Network Analysis**]()<br>
+- [**Social Network Analysis**](https://github.com/zz2641/Social-Network-Analysis)<br>
 - [**Cluster Analysis**]()<br>
 - [**Neural Network**](https://github.com/zz2641/Neural-Networks)<br>
 - [**Latent Class Analysis: Different Typologis of Student Readers**](https://github.com/zz2641/A-Latent-Class-Analysis-Student-Typology)
